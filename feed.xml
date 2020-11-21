@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okimoni Art</title>
+    <description>Paintings portfolio of Okimoni
+</description>
+    <link>https://okimoni.github.io/</link>
+    <atom:link href="https://okimoni.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 21 Nov 2020 20:43:47 +0100</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2020 20:43:47 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Blue motion 1</title>
+        <description>&lt;p&gt;This painting inspires me the power of the elements on humans, more precisely here, that of water.
+Its strength has two sides, whether you go with or against the flow, which is depicted here by the alternance of bright and dark features.
+The viewer can also see the universe.
+The painting is willingly free of horizon in order to highlight the confusion between both fluids.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/images/blue-motion-1-0.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Find it on &lt;a href=&quot;https://www.saatchiart.com/art/Painting-Blue-motion-1/1696819/8043051/view&quot;&gt;Saachti&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2020 00:00:00 +0100</pubDate>
+        <link>https://okimoni.github.io//2020/11/21/blue-motion-1/</link>
+        <guid isPermaLink="true">https://okimoni.github.io//2020/11/21/blue-motion-1/</guid>
+        
+        <category>Fluids</category>
+        
+        <category>Blue</category>
+        
+        <category>Water</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Arlequin</title>
+        <description>&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/images/arlequin-2.jpg#centered&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This painting make me feel like the first days of the autumn when days become shorter, fields are red and merge with the burning sky while the smoothness of the sea contributes to this envelopping atmosphere.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;/assets/images/arlequin.jpg#centered&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Find it on &lt;a href=&quot;https://www.saatchiart.com/art/Painting-Arlequin/1696819/8045003/view&quot;&gt;Saachti&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Nov 2020 00:00:00 +0100</pubDate>
+        <link>https://okimoni.github.io//2020/11/21/arlequin-copy/</link>
+        <guid isPermaLink="true">https://okimoni.github.io//2020/11/21/arlequin-copy/</guid>
+        
+        <category>Colorfull</category>
+        
+        <category>Autumn</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
